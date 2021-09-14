@@ -1,0 +1,43 @@
+
+> Major differences
+
+    >> Statistics:
+        >>> Subfield of Math
+        >>> Focuses on forming relationship between variables in the form of equations
+        >>> Confidence Intervals
+        >>> Using variable relationships to predict outcomes
+        >>> Quantify uncertainty
+
+    >> Machine Learning:
+        >>> Subfield of CS and AI
+        >>> Algorithms that learn from data without relying on rules-based programming
+        >>> Building systems than can learn from data
+        >>> Prediction and classification is much more emphasized in machine learning
+
+> Practical Differences
+
+    >> Statistics:
+        >>> Emphasizes formal statistical inference (Confidence Intervals, Hypothesis testing, estimators) in low dimensional problems
+        >>> Choice of models is influenced by the underlying data
+        >>> If formalized relationships exist between x and y, we can derive equations
+
+    >> Machine Learning:
+        >>> Emphasizes high dimensional prediction problems
+        >>> Choice of models is based on predictive ability - NOT the data distribution (Results-based methods)
+        >>> More amenable to non-linear / other types of complex or skewed data
+        >>> Usually outputs NO equations
+
+> Basic theories of Machine Learning
+
+    >> They learn from data and do not seek to formalize the information
+    >> The focus is on predictive modelling
+    >> Supervised and Unsupervised
+
+        >>> Unsupervised:
+            + Draws inferences from data without labels
+            + Groups (clusters) like-data
+            + Works to find info about unstructured data with little to no interference from users
+
+        >>> Supervised:
+            + Requires user help to train the models (training data, references, etc...)
+            + Classification (Categorical) and Regression (Continuous)
